@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vehicle-Tracker-App/static/css/main.0735b1f8.css",
+    "main.js": "/Vehicle-Tracker-App/static/js/main.7bf0ecd4.js",
+    "index.html": "/Vehicle-Tracker-App/index.html",
+    "main.0735b1f8.css.map": "/Vehicle-Tracker-App/static/css/main.0735b1f8.css.map",
+    "main.7bf0ecd4.js.map": "/Vehicle-Tracker-App/static/js/main.7bf0ecd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0735b1f8.css",
+    "static/js/main.7bf0ecd4.js"
+  ]
+}
